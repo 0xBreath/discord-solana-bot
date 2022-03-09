@@ -20,8 +20,8 @@ const commands = [
         }]
     },
     {
-        name: 'my-assets',
-        description: 'Get all game assets from your reigstered Solana wallet.',
+        name: 'catch',
+        description: 'Attempt to catch an elusive Aurahma!',
     }
 ]; 
 
